@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .nav {
+        display: none;
+    }
+    .burger-bar {
+        display: block;
+    }
+
+}
+@media (max-width: 640px) {
+    .right_content {
+        width: 100%;
+    }
+}
