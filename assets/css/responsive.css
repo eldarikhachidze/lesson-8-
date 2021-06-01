@@ -8,7 +8,7 @@
 
 }
 @media (max-width: 640px) {
-    .right_content {
+    .right_content img {
         width: 100%;
     }
 }
